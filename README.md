@@ -5,3 +5,20 @@ IDEAS:
 -rather than a redirect, completely change the page with react to show the clicked on plants info
 -bushes and other plants?
 -make it a live site, heroku or other.
+
+TREES:
+-red maple
+-loblolly pine
+-sweetgum
+-douglus fir
+-quaking aspen
+-sugar maple
+-balsam fir
+-flowering dogwood
+-lodgepole pine
+-white oak
+
+
+
+
+<!-- USE PNG FORMAT FOR IMAGES -->
