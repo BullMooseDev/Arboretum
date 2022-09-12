@@ -5,6 +5,7 @@ IDEAS:
 -rather than a redirect, completely change the page with react to show the clicked on plants info
 -bushes and other plants?
 -make it a live site, heroku or other.
+-add multiple tabs for trees/bushes/etc
 
 TREES:
 -red maple
