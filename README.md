@@ -17,7 +17,20 @@ TREES:
 -flowering dogwood
 -lodgepole pine
 -white oak
-
+-american mountain ash
+-american persimmon
+-cherry
+-common hackberry
+-hawthorns
+-red mullberry
+-serviceberry
+-basswood
+-beech
+-birches
+-black walnut
+-hickory
+-oak
+-spruce
 
 
 
