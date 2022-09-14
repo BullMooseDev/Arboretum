@@ -39,4 +39,6 @@ https://wp.towson.edu/glenarboretum/   use this link for information in regards 
 // It would be cool to add a easter egg in the trees of a spider, when clicked shows a "the hobbit 1977" like scene
 
 
+CURRENTLY SOME OF THE TREE FILES DO NOT ACT LIKE PROPER PNGS
+
 <!-- USE PNG FORMAT FOR IMAGES -->
