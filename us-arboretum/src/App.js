@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import AmericanCherry from './assets/AmericanCherry.png';
+import React from 'react';
+import Popup from 'reactjs-popup';
+import 'reactjs-popup/dist/index.css';
+let ImgSize = {
+  height: 225,
+  width: 225
+};
 
 function importAllImages(i) {
   let images = {};
@@ -13,7 +19,12 @@ const images = importAllImages(require.context('./assets', false, /\.(png|jpe?g|
 function App() {
   return (
     <div>
-      <img src={images['AmericanCherry.png']} />
+      <div><Popup trigger={<button><img src={images['AmericanCherry.png']} style={ImgSize} /></button>} position="right center">
+        <div>Wow! an American Cherry tree! Swallows and other birds LOVE this tree!</div>
+      </Popup></div>
+      <Popup trigger={<button><img src={images['BalsamFir.png']} style={ImgSize} /></button>} position="right center">
+        <div>Wow! A Balsam Fir! These make excellent christmas trees!</div>
+      </Popup>
     </div>
   );
 }
